@@ -1,2 +1,2 @@
 fichero a
-
+version 2
